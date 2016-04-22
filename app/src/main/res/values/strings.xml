@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DragAndDrop</string>
+    <string name="action_disable_drag">Disable drag</string>
+    <string name="action_enable_drag">Enable drag</string>
+</resources>
